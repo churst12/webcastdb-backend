@@ -1,0 +1,1 @@
+suppose I had allowed K2 equal in Kay were to equal and then one of these two terms would be zero and the other one would be one so the recursion would actually work in those two cases as long as one of them is understood to be zero when they're outside outside the range alright so I'm going to

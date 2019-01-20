@@ -1,0 +1,1 @@
+the code what is the code the code is simple now this write a function that calls itself send Java so we have to develop everything inside a class with a function called C I guess I could call it something else but just to be consistent with the notes so what is C&K if K is greater than n oh by the way I think for a minute suppose I had to go back to this proof for a second

@@ -1,0 +1,1 @@
+let me say it again at this point in the recursion how do I get that how do I get the index of the to its indexes is one so how do I get that index one from length of the array which is 4 and the 3 4 - 3 is one that gives you the index of the one to be printed likewise 4 - 2 is II that's the index of the one to be printed okay that explains this little bit of index
